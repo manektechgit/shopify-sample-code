@@ -1,0 +1,41 @@
+{
+  "current": {
+    "theme_color": "#227971",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "text": "Get free delivery on orders over $100"
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "menu": "main-menu"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer1": {
+            "type": "footer_menu",
+            "settings": {
+              "title": "Shop",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer1"
+        ],
+        "settings": {
+          "text": "Sed ut perspiciatis undmnis is iste natus error sit amet voluptatem totam rem aperiam.",
+          "phone": "+012 (345) 678 99"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
